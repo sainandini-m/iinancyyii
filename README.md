@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello there Everyone, I am Sainandini.  :sparkles: 
 
-<!--
-**iinancyyii/iinancyyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About Me :octocat:
+I am  am building web apps since 4 years but currently a newbie in industry and also a newbie in open source. I specialize in Javascript and React. I aspire to contribute more and more to the open source community.I also am trying a hand at technical content writing.
+If anyone looking for collaboration on personal projects then please feel free to connect with me.
 
-Here are some ideas to get you started:
+###Technologies I am familiar with  :metal: 
+1. HTML
+2. CSS
+3. JavaScript
+4. React.js
+5. Node.js
+6. MongoDB 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Favourite Quote  :innocent:
+As Steve Jobs said:
+> The people who are crazy enough to think they can change the world are the ones who do.
+
+###Reach Me at :smile:
+* Linkedin https://in.linkedin.com/in/sainandinimishra
+
