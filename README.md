@@ -7,7 +7,7 @@ I am  am building web apps since 4 years but currently a newbie in industry and 
 1. HTML
 2. CSS
 3. JavaScript
-4. React.js
+4. Angular / AngularJS
 5. Node.js
 6. MongoDB 
 
