@@ -4,12 +4,11 @@
 I am  am building web apps since 4 years but currently a newbie in industry and also a newbie in open source. I specialize in Javascript. I aspire to contribute more and more to the open source community.I also am trying a hand at technical content writing.
 
 ## Technologies I am familiar with  :metal: 
-1. HTML
-2. CSS
-3. JavaScript
-4. Angular / AngularJS
-5. Node.js
-6. MongoDB 
+1. HTML / CSS
+2. JavaScript
+3. Angular / AngularJS
+4. Node.js
+5. MongoDB 
 
 ## Favourite Quote  :innocent:
 As Steve Jobs said:
