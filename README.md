@@ -1,7 +1,7 @@
-# Hello there Everyone, I am Sainandini.  :sparkles: 
+# Hello World, I am Sainandini.  :sparkles: 
 
 ## About Me :octocat:
-I am building web apps since since but currently a newbie in open source. I specialize in Javascript. I aspire to contribute more and more to the open source community.I also am trying a hand at technical content writing.
+I am building web apps since college but currently a newbie in open source. I specialize in Javascript. I aspire to contribute more and more to the open source community.I also am trying a hand at technical content writing.
 
 ## Technologies I am familiar with  :metal: 
 1. HTML / CSS
